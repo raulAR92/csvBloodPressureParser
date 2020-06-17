@@ -1,0 +1,12 @@
+{
+  "name": "formatData",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-generate": "^3.2.4",
+    "csv-parser": "^2.3.3",
+    "fast-csv": "^4.3.0",
+    "moment": "^2.26.0"
+  }
+}
